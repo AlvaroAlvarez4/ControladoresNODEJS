@@ -1,0 +1,24 @@
+body {
+    /*paddinng -> para agregar pixeles (espacios) desde el limite del contenedor hacia dentro*/
+    /* padding: 50px; */
+    /*margin -> para agregar pixeles (espacios) desde el limite del contenedor hacia fuera*/
+    /* margin: 50px; */
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.c-white {
+    color: white !important;
+}
+
+.card {
+    box-shadow: 13px 9px 6px 0px #686565 !important;
+}
+
+.bg-fondo {
+    height: 100vh;
+    background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/49883hd.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
